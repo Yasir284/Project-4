@@ -6,6 +6,4 @@
 
 - It took me 2-3hr to make this website.
 
-- Please find the link of the project: [Link of project-4](https://project4-25722.netlify.app/)
-
-![badge](https://img.shields.io/badge/Project--4-Buisness%20website-blue)
+[![badge](https://img.shields.io/badge/Link-Project--4-blue)](https://project4-25722.netlify.app/)
