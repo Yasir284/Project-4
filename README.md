@@ -2,13 +2,15 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-2--3hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project4-25722.netlify.app/)
 
-# Project-4:Buisness website
+# Buisness website
 
-- This is a buisness website.After making this website i got a good grab on flex and position properties.I am confident and excited to make new projects.
+- This is my **Fourth** project.
+
+- This is a buisness website.After making this website I got a good grab on flex and position properties.I am confident and excited to make new projects.
 
 - It took me 2-3hr to make this website.Link of project is below:
 
-[![badge](https://img.shields.io/badge/Link-Project--4-blue)](https://project4-25722.netlify.app/)
+[![badge](https://img.shields.io/badge/Link%20of-Project-red)](https://project4-25722.netlify.app/)
 
 ---
 
